@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F92ABF03-6F67-4A6B-9D7E-8B344D880B2F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2CE284E-7CA8-444F-A590-B66817E31754"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iDineBarnet/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D2CE284E-7CA8-444F-A590-B66817E31754 - 37c4811c64ba9cbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iDineBarnet.MenuSection) -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;iDineBarnet.ItemRow, Swift.Never&gt;&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuSection&gt;, Foundation.UUID, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;iDineBarnet.ItemRow, Swift.Never&gt;&gt;, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in iDineBarnet.ContentView.body.getter : some"
+                  moduleName = "iDineBarnet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchita/Downloads/XCodeProjects/iDineBarnet/iDineBarnet/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "D2CE284E-7CA8-444F-A590-B66817E31754 - a6f0fc817b5f772b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;iDineBarnet.ItemRow, Swift.Never&gt;&gt; in closure #1 (iDineBarnet.MenuSection) -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;iDineBarnet.ItemRow, Swift.Never&gt;&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuSection&gt;, Foundation.UUID, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;iDineBarnet.ItemRow, Swift.Never&gt;&gt;, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in iDineBarnet.ContentView.body.getter : some"
+                  moduleName = "iDineBarnet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchita/Downloads/XCodeProjects/iDineBarnet/iDineBarnet/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "D2CE284E-7CA8-444F-A590-B66817E31754 - fd2b284e417900a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iDineBarnet.MenuSection) -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.NavigationLink.isDetailLink(Swift.Bool) -&gt; some&gt;&gt;.0&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuSection&gt;, Foundation.UUID, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.NavigationLink.isDetailLink(Swift.Bool) -&gt; some&gt;&gt;.0&gt;, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in iDineBarnet.ContentView.body.getter : some"
+                  moduleName = "iDineBarnet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchita/Downloads/XCodeProjects/iDineBarnet/iDineBarnet/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "D2CE284E-7CA8-444F-A590-B66817E31754 - 26e497fd36960f6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.NavigationLink.isDetailLink(Swift.Bool) -&gt; some&gt;&gt;.0&gt; in closure #1 (iDineBarnet.MenuSection) -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.NavigationLink.isDetailLink(Swift.Bool) -&gt; some&gt;&gt;.0&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuSection&gt;, Foundation.UUID, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;iDineBarnet.MenuItem&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.NavigationLink.isDetailLink(Swift.Bool) -&gt; some&gt;&gt;.0&gt;, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in iDineBarnet.ContentView.body.getter : some"
+                  moduleName = "iDineBarnet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchita/Downloads/XCodeProjects/iDineBarnet/iDineBarnet/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9793C2F-4434-4F13-927B-3767BC779B52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iDineBarnet/ItemRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
